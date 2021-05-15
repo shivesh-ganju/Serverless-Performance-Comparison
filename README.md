@@ -1,6 +1,6 @@
 # Serverless-Performance-Comparison
 
-Analyzing the performance of deep learning models on serverless computing platforms. For a detailed description, please refer to the report.pdf present in the repo    
+Analyzing the performance of deep learning models on serverless computing platforms. For a detailed description, please refer to the Serverless Platform Performance Analysis.pdf present in the repo    
 
 ## Project Structure     
 The project code has been divided into 4 folders    
